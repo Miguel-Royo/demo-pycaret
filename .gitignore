@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Project files to skip
+data/mnist_train.csv*
+mnist_train.csv.zip
+logs.log
+.ipynb_checkpoints/
+.idea/
